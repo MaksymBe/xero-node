@@ -1,6 +1,6 @@
 {
   "name": "xero-node2",
-  "version": "4.4.4",
+  "version": "4.4.6",
   "description": "Fork of Xero NodeJS OAuth 2.0 client",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
