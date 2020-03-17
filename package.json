@@ -1,10 +1,10 @@
 {
   "name": "xero-node2",
   "version": "4.4.4",
-  "description": "Xero NodeJS OAuth 2.0 client for xero-node",
+  "description": "Fork of Xero NodeJS OAuth 2.0 client",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "author": "Xero Platform Team",
+  "author": "Xero Platform Team and small changes by MaksymBe",
   "license": "MIT",
   "repository": {
     "type": "git",
