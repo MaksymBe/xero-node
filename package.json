@@ -1,5 +1,5 @@
 {
-  "name": "xero-node",
+  "name": "xero-node2",
   "version": "4.4.4",
   "description": "Xero NodeJS OAuth 2.0 client for xero-node",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/XeroAPI/xero-node.git"
+    "url": "git://github.com/MaksymBe/xero-node.git"
   },
   "scripts": {
     "build": "tsc",
